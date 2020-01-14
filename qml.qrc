@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyComboBox.qml</file>
+        <file>MathButton.qml</file>
+        <file>OperButton.qml</file>
+        <file>OperMenu.qml</file>
+    </qresource>
+</RCC>
